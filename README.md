@@ -8,4 +8,4 @@
 <br>
 阮一峰git命令,有git操作常用操作的中介 <a href="http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html">点我点我跳转到相关博文</a>
 #工作流程
-关于github协作流程的文章，不明白如何跟队友一起写作的请阅读这篇文章<a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">点我点我跳转到相关博文</a>
+关于github协作流程的文章，不明白如何跟队友一起合作的请阅读这篇文章<a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html">点我点我跳转到相关博文</a>
