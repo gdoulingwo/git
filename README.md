@@ -5,3 +5,4 @@
 下方文档按照由简单到复杂的过程分为多个带序号板块，每个板块收录相关博文的内容简介和链接
 #基础入门：
 廖雪峰git教程,有基础的git操作和git的相关介绍<a href="http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000">点我跳转到相关博文</a>
+阮一峰git命令,有git操作常用操作的中介<a href="http://www.ruanyifeng.com/blog/2015/12/git-cheat-sheet.html">点我点我跳转到相关博文</a>
