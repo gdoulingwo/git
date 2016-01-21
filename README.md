@@ -10,6 +10,6 @@
 #工作流程
 关于github协作流程的文章，不明白如何跟队友一起合作的请阅读这篇文章<a href="http://www.ruanyifeng.com/blog/2015/12/git-workflow.html" target="_blank">点我点我跳转到相关博文</a>
 #书籍
-《pro-git》git官方文档，含有大部分的git命令<a href="./git.epub" target="_blank">点我下载</a>
+《pro-git》git官方文档，含有大部分的git命令<a href="https://gdoulingwo.github.io/git/git.epub" target="_blank">点我下载</a>
 <br>
 《github入门》，oreilly出版社最新的github介绍，书很薄，可以了解github以及工作流程的一些理念，这本书暂无电子版，可以在图书馆五楼510室左手边中间书架附近找到（TP311.56/B452L）
