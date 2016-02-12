@@ -13,3 +13,7 @@
 《pro-git》git官方文档，含有大部分的git命令<a href="https://gdoulingwo.github.io/git" target="_blank">点我下载</a>
 <br>
 《github入门》，oreilly出版社最新的github介绍，书很薄，可以了解github以及工作流程的一些理念，这本书暂无电子版，可以在图书馆五楼510室左手边中间书架附近找到（TP311.56/B452L）
+#编辑自己的git 快捷操作
+1. git config --global -e
+2. 弹出的编辑框内[alias]后面输入快捷操作和对应的命令（如果没有[alias]在最后面添加)
+3. 格式是： st = status 表示之后输入git st 等于输入 git status
